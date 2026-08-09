@@ -1,0 +1,37 @@
+name: Dürre-Daten aktualisieren
+
+on:
+  schedule:
+    # Taeglich um 06:00 UTC (08:00 MESZ / 07:00 MEZ) -- nach UFZ-Update
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}  # erlaubt manuelles Ausloesen ueber den "Run workflow"-Button
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Abhängigkeiten installieren
+        run: |
+          pip install geopandas requests rioxarray xarray netCDF4 rasterstats
+
+      - name: Kreiswerte neu berechnen
+        run: python scripts/aggregate.py
+
+      - name: Änderungen committen (falls vorhanden)
+        run: |
+          git config user.name "riskscope-bot"
+          git config user.email "actions@github.com"
+          git add data/kreis_werte.json
+          git diff --staged --quiet && echo "Keine Änderung, kein Commit." || git commit -m "Dürre-Daten aktualisiert ($(date -u +%Y-%m-%d))"
+          git push
