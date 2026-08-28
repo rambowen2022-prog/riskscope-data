@@ -1,34 +1,34 @@
 {
-  "stichtag": "2026-08-24",
-  "aktualisiert": "2026-08-26T08:10:51+00:00",
+  "stichtag": "2026-08-26",
+  "aktualisiert": "2026-08-28T21:28:53+00:00",
   "werte": {
     "01001": {
-      "duerre_index": 92,
-      "smi": 0.078
+      "duerre_index": 93,
+      "smi": 0.069
     },
     "01002": {
       "duerre_index": 96,
-      "smi": 0.038
+      "smi": 0.036
     },
     "01003": {
       "duerre_index": 97,
-      "smi": 0.034
+      "smi": 0.033
     },
     "01004": {
       "duerre_index": 92,
-      "smi": 0.082
+      "smi": 0.078
     },
     "01051": {
-      "duerre_index": 79,
-      "smi": 0.205
+      "duerre_index": 81,
+      "smi": 0.195
     },
     "01053": {
-      "duerre_index": 95,
-      "smi": 0.047
+      "duerre_index": 96,
+      "smi": 0.042
     },
     "01054": {
-      "duerre_index": 85,
-      "smi": 0.15
+      "duerre_index": 87,
+      "smi": 0.129
     },
     "01055": {
       "duerre_index": 98,
@@ -36,27 +36,27 @@
     },
     "01056": {
       "duerre_index": 93,
-      "smi": 0.072
+      "smi": 0.071
     },
     "01057": {
-      "duerre_index": 98,
-      "smi": 0.022
+      "duerre_index": 99,
+      "smi": 0.013
     },
     "01058": {
-      "duerre_index": 91,
-      "smi": 0.092
+      "duerre_index": 92,
+      "smi": 0.084
     },
     "01059": {
-      "duerre_index": 88,
-      "smi": 0.121
+      "duerre_index": 89,
+      "smi": 0.107
     },
     "01060": {
       "duerre_index": 98,
-      "smi": 0.024
+      "smi": 0.022
     },
     "01061": {
-      "duerre_index": 88,
-      "smi": 0.115
+      "duerre_index": 89,
+      "smi": 0.109
     },
     "01062": {
       "duerre_index": 97,
@@ -64,59 +64,59 @@
     },
     "02000": {
       "duerre_index": 95,
-      "smi": 0.051
+      "smi": 0.055
     },
     "03101": {
-      "duerre_index": 90,
-      "smi": 0.096
+      "duerre_index": 91,
+      "smi": 0.091
     },
     "03102": {
       "duerre_index": 98,
-      "smi": 0.023
+      "smi": 0.022
     },
     "03103": {
-      "duerre_index": 83,
-      "smi": 0.172
+      "duerre_index": 84,
+      "smi": 0.159
     },
     "03151": {
       "duerre_index": 93,
-      "smi": 0.071
+      "smi": 0.066
     },
     "03153": {
       "duerre_index": 96,
-      "smi": 0.037
+      "smi": 0.041
     },
     "03154": {
       "duerre_index": 100,
-      "smi": 0.005
+      "smi": 0.004
     },
     "03155": {
-      "duerre_index": 99,
-      "smi": 0.014
-    },
-    "03157": {
-      "duerre_index": 85,
-      "smi": 0.148
-    },
-    "03158": {
-      "duerre_index": 81,
-      "smi": 0.193
-    },
-    "03159": {
       "duerre_index": 98,
       "smi": 0.02
     },
-    "03241": {
-      "duerre_index": 88,
-      "smi": 0.124
+    "03157": {
+      "duerre_index": 84,
+      "smi": 0.157
     },
-    "03251": {
+    "03158": {
+      "duerre_index": 80,
+      "smi": 0.199
+    },
+    "03159": {
       "duerre_index": 98,
       "smi": 0.021
     },
-    "03252": {
+    "03241": {
+      "duerre_index": 89,
+      "smi": 0.113
+    },
+    "03251": {
       "duerre_index": 98,
-      "smi": 0.025
+      "smi": 0.02
+    },
+    "03252": {
+      "duerre_index": 97,
+      "smi": 0.03
     },
     "03254": {
       "duerre_index": 100,
@@ -124,47 +124,47 @@
     },
     "03255": {
       "duerre_index": 91,
-      "smi": 0.09
+      "smi": 0.094
     },
     "03256": {
       "duerre_index": 100,
-      "smi": 0.002
+      "smi": 0.001
     },
     "03257": {
       "duerre_index": 98,
       "smi": 0.021
     },
     "03351": {
-      "duerre_index": 90,
-      "smi": 0.098
+      "duerre_index": 91,
+      "smi": 0.088
     },
     "03352": {
-      "duerre_index": 88,
-      "smi": 0.117
+      "duerre_index": 89,
+      "smi": 0.108
     },
     "03353": {
       "duerre_index": 98,
-      "smi": 0.018
+      "smi": 0.017
     },
     "03354": {
-      "duerre_index": 91,
-      "smi": 0.089
+      "duerre_index": 92,
+      "smi": 0.084
     },
     "03355": {
-      "duerre_index": 97,
-      "smi": 0.029
+      "duerre_index": 98,
+      "smi": 0.022
     },
     "03356": {
       "duerre_index": 92,
-      "smi": 0.083
+      "smi": 0.079
     },
     "03357": {
       "duerre_index": 95,
-      "smi": 0.052
+      "smi": 0.05
     },
     "03358": {
       "duerre_index": 96,
-      "smi": 0.045
+      "smi": 0.039
     },
     "03359": {
       "duerre_index": 91,
@@ -172,59 +172,59 @@
     },
     "03360": {
       "duerre_index": 92,
-      "smi": 0.081
+      "smi": 0.078
     },
     "03361": {
-      "duerre_index": 96,
-      "smi": 0.036
+      "duerre_index": 97,
+      "smi": 0.033
     },
     "03401": {
       "duerre_index": 98,
-      "smi": 0.024
+      "smi": 0.019
     },
     "03402": {
       "duerre_index": 90,
-      "smi": 0.098
+      "smi": 0.097
     },
     "03403": {
       "duerre_index": 96,
-      "smi": 0.036
+      "smi": 0.038
     },
     "03404": {
       "duerre_index": 99,
-      "smi": 0.007
+      "smi": 0.008
     },
     "03405": {
-      "duerre_index": 78,
-      "smi": 0.22
+      "duerre_index": 80,
+      "smi": 0.204
     },
     "03451": {
       "duerre_index": 94,
-      "smi": 0.062
+      "smi": 0.063
     },
     "03452": {
-      "duerre_index": 83,
-      "smi": 0.172
+      "duerre_index": 84,
+      "smi": 0.158
     },
     "03453": {
       "duerre_index": 97,
-      "smi": 0.027
+      "smi": 0.026
     },
     "03454": {
       "duerre_index": 98,
-      "smi": 0.023
+      "smi": 0.022
     },
     "03455": {
-      "duerre_index": 83,
-      "smi": 0.168
+      "duerre_index": 85,
+      "smi": 0.155
     },
     "03456": {
       "duerre_index": 98,
-      "smi": 0.016
+      "smi": 0.015
     },
     "03457": {
-      "duerre_index": 71,
-      "smi": 0.293
+      "duerre_index": 72,
+      "smi": 0.283
     },
     "03458": {
       "duerre_index": 97,
@@ -232,55 +232,55 @@
     },
     "03459": {
       "duerre_index": 98,
-      "smi": 0.019
+      "smi": 0.018
     },
     "03460": {
       "duerre_index": 99,
-      "smi": 0.009
+      "smi": 0.008
     },
     "03461": {
       "duerre_index": 96,
-      "smi": 0.043
+      "smi": 0.038
     },
     "03462": {
-      "duerre_index": 76,
-      "smi": 0.237
+      "duerre_index": 78,
+      "smi": 0.222
     },
     "04011": {
       "duerre_index": 97,
-      "smi": 0.033
+      "smi": 0.03
     },
     "04012": {
-      "duerre_index": 87,
-      "smi": 0.132
+      "duerre_index": 88,
+      "smi": 0.12
     },
     "05111": {
       "duerre_index": 99,
-      "smi": 0.006
+      "smi": 0.008
     },
     "05112": {
       "duerre_index": 98,
-      "smi": 0.02
+      "smi": 0.021
     },
     "05113": {
       "duerre_index": 99,
-      "smi": 0.012
+      "smi": 0.014
     },
     "05114": {
-      "duerre_index": 99,
-      "smi": 0.006
+      "duerre_index": 98,
+      "smi": 0.023
     },
     "05116": {
       "duerre_index": 93,
-      "smi": 0.068
+      "smi": 0.073
     },
     "05117": {
-      "duerre_index": 100,
-      "smi": 0.001
+      "duerre_index": 98,
+      "smi": 0.019
     },
     "05119": {
       "duerre_index": 98,
-      "smi": 0.015
+      "smi": 0.018
     },
     "05120": {
       "duerre_index": 100,
@@ -288,15 +288,15 @@
     },
     "05122": {
       "duerre_index": 99,
-      "smi": 0.011
+      "smi": 0.014
     },
     "05124": {
       "duerre_index": 100,
-      "smi": 0.001
+      "smi": 0.004
     },
     "05154": {
       "duerre_index": 97,
-      "smi": 0.034
+      "smi": 0.035
     },
     "05158": {
       "duerre_index": 99,
@@ -304,127 +304,127 @@
     },
     "05162": {
       "duerre_index": 96,
-      "smi": 0.04
+      "smi": 0.044
     },
     "05166": {
       "duerre_index": 96,
-      "smi": 0.036
+      "smi": 0.038
     },
     "05170": {
       "duerre_index": 97,
-      "smi": 0.033
+      "smi": 0.035
     },
     "05314": {
       "duerre_index": 99,
-      "smi": 0.006
+      "smi": 0.005
     },
     "05315": {
-      "duerre_index": 100,
-      "smi": 0.001
+      "duerre_index": 99,
+      "smi": 0.009
     },
     "05316": {
-      "duerre_index": 100,
-      "smi": 0.003
+      "duerre_index": 99,
+      "smi": 0.008
     },
     "05334": {
-      "duerre_index": 99,
-      "smi": 0.006
+      "duerre_index": 100,
+      "smi": 0.0
     },
     "05358": {
-      "duerre_index": 97,
-      "smi": 0.034
+      "duerre_index": 96,
+      "smi": 0.038
     },
     "05362": {
-      "duerre_index": 98,
-      "smi": 0.024
+      "duerre_index": 97,
+      "smi": 0.028
     },
     "05366": {
-      "duerre_index": 95,
-      "smi": 0.048
+      "duerre_index": 93,
+      "smi": 0.067
     },
     "05370": {
       "duerre_index": 92,
       "smi": 0.08
     },
     "05374": {
-      "duerre_index": 99,
-      "smi": 0.014
+      "duerre_index": 98,
+      "smi": 0.018
     },
     "05378": {
-      "duerre_index": 100,
-      "smi": 0.003
-    },
-    "05382": {
-      "duerre_index": 98,
-      "smi": 0.016
-    },
-    "05512": {
-      "duerre_index": 98,
-      "smi": 0.022
-    },
-    "05513": {
       "duerre_index": 99,
       "smi": 0.007
     },
+    "05382": {
+      "duerre_index": 98,
+      "smi": 0.017
+    },
+    "05512": {
+      "duerre_index": 98,
+      "smi": 0.023
+    },
+    "05513": {
+      "duerre_index": 99,
+      "smi": 0.008
+    },
     "05515": {
       "duerre_index": 100,
-      "smi": 0.001
+      "smi": 0.003
     },
     "05554": {
       "duerre_index": 98,
-      "smi": 0.02
+      "smi": 0.021
     },
     "05558": {
       "duerre_index": 99,
-      "smi": 0.009
+      "smi": 0.01
     },
     "05562": {
       "duerre_index": 99,
-      "smi": 0.006
+      "smi": 0.007
     },
     "05566": {
-      "duerre_index": 93,
+      "duerre_index": 94,
       "smi": 0.065
     },
     "05570": {
       "duerre_index": 96,
-      "smi": 0.041
+      "smi": 0.043
     },
     "05711": {
       "duerre_index": 95,
-      "smi": 0.047
+      "smi": 0.053
     },
     "05754": {
-      "duerre_index": 92,
-      "smi": 0.083
+      "duerre_index": 91,
+      "smi": 0.087
     },
     "05758": {
       "duerre_index": 97,
-      "smi": 0.03
+      "smi": 0.031
     },
     "05762": {
       "duerre_index": 94,
-      "smi": 0.056
+      "smi": 0.064
     },
     "05766": {
       "duerre_index": 87,
-      "smi": 0.129
+      "smi": 0.132
     },
     "05770": {
-      "duerre_index": 99,
+      "duerre_index": 100,
       "smi": 0.005
     },
     "05774": {
-      "duerre_index": 84,
-      "smi": 0.159
+      "duerre_index": 83,
+      "smi": 0.171
     },
     "05911": {
-      "duerre_index": 99,
-      "smi": 0.014
+      "duerre_index": 98,
+      "smi": 0.016
     },
     "05913": {
       "duerre_index": 100,
-      "smi": 0.0
+      "smi": 0.002
     },
     "05914": {
       "duerre_index": 100,
@@ -432,19 +432,19 @@
     },
     "05915": {
       "duerre_index": 99,
-      "smi": 0.009
+      "smi": 0.01
     },
     "05916": {
       "duerre_index": 98,
-      "smi": 0.019
+      "smi": 0.021
     },
     "05954": {
-      "duerre_index": 99,
-      "smi": 0.015
+      "duerre_index": 98,
+      "smi": 0.019
     },
     "05958": {
       "duerre_index": 100,
-      "smi": 0.001
+      "smi": 0.002
     },
     "05962": {
       "duerre_index": 100,
@@ -452,39 +452,39 @@
     },
     "05966": {
       "duerre_index": 99,
-      "smi": 0.007
+      "smi": 0.009
     },
     "05970": {
       "duerre_index": 100,
       "smi": 0.0
     },
     "05974": {
-      "duerre_index": 98,
-      "smi": 0.024
+      "duerre_index": 97,
+      "smi": 0.025
     },
     "05978": {
       "duerre_index": 99,
-      "smi": 0.005
+      "smi": 0.007
     },
     "06411": {
       "duerre_index": 99,
-      "smi": 0.012
+      "smi": 0.014
     },
     "06412": {
       "duerre_index": 95,
-      "smi": 0.05
+      "smi": 0.049
     },
     "06413": {
-      "duerre_index": 97,
-      "smi": 0.026
+      "duerre_index": 98,
+      "smi": 0.024
     },
     "06414": {
-      "duerre_index": 89,
-      "smi": 0.107
+      "duerre_index": 90,
+      "smi": 0.104
     },
     "06431": {
-      "duerre_index": 99,
-      "smi": 0.008
+      "duerre_index": 100,
+      "smi": 0.004
     },
     "06432": {
       "duerre_index": 99,
@@ -496,11 +496,11 @@
     },
     "06434": {
       "duerre_index": 100,
-      "smi": 0.002
+      "smi": 0.0
     },
     "06435": {
-      "duerre_index": 100,
-      "smi": 0.004
+      "duerre_index": 99,
+      "smi": 0.006
     },
     "06436": {
       "duerre_index": 99,
@@ -508,11 +508,11 @@
     },
     "06437": {
       "duerre_index": 99,
-      "smi": 0.005
+      "smi": 0.006
     },
     "06438": {
       "duerre_index": 97,
-      "smi": 0.031
+      "smi": 0.032
     },
     "06439": {
       "duerre_index": 99,
@@ -524,27 +524,27 @@
     },
     "06531": {
       "duerre_index": 98,
-      "smi": 0.019
+      "smi": 0.021
     },
     "06532": {
       "duerre_index": 98,
-      "smi": 0.024
+      "smi": 0.023
     },
     "06533": {
       "duerre_index": 99,
-      "smi": 0.007
+      "smi": 0.008
     },
     "06534": {
       "duerre_index": 100,
-      "smi": 0.001
+      "smi": 0.002
     },
     "06535": {
       "duerre_index": 100,
-      "smi": 0.003
+      "smi": 0.004
     },
     "06611": {
       "duerre_index": 98,
-      "smi": 0.021
+      "smi": 0.022
     },
     "06631": {
       "duerre_index": 100,
@@ -555,12 +555,12 @@
       "smi": 0.0
     },
     "06633": {
-      "duerre_index": 89,
-      "smi": 0.109
+      "duerre_index": 88,
+      "smi": 0.121
     },
     "06634": {
       "duerre_index": 99,
-      "smi": 0.009
+      "smi": 0.01
     },
     "06635": {
       "duerre_index": 100,
@@ -572,19 +572,19 @@
     },
     "07111": {
       "duerre_index": 100,
-      "smi": 0.0
+      "smi": 0.001
     },
     "07131": {
-      "duerre_index": 100,
-      "smi": 0.003
+      "duerre_index": 99,
+      "smi": 0.006
     },
     "07132": {
       "duerre_index": 99,
-      "smi": 0.01
+      "smi": 0.012
     },
     "07133": {
       "duerre_index": 97,
-      "smi": 0.025
+      "smi": 0.026
     },
     "07134": {
       "duerre_index": 98,
@@ -592,10 +592,10 @@
     },
     "07135": {
       "duerre_index": 97,
-      "smi": 0.033
+      "smi": 0.031
     },
     "07137": {
-      "duerre_index": 99,
+      "duerre_index": 100,
       "smi": 0.005
     },
     "07138": {
@@ -604,23 +604,23 @@
     },
     "07140": {
       "duerre_index": 100,
-      "smi": 0.004
+      "smi": 0.003
     },
     "07141": {
-      "duerre_index": 97,
-      "smi": 0.025
+      "duerre_index": 98,
+      "smi": 0.023
     },
     "07143": {
       "duerre_index": 99,
-      "smi": 0.011
+      "smi": 0.012
     },
     "07211": {
-      "duerre_index": 97,
-      "smi": 0.027
+      "duerre_index": 98,
+      "smi": 0.024
     },
     "07231": {
       "duerre_index": 97,
-      "smi": 0.034
+      "smi": 0.032
     },
     "07232": {
       "duerre_index": 98,
@@ -628,15 +628,15 @@
     },
     "07233": {
       "duerre_index": 99,
-      "smi": 0.006
+      "smi": 0.007
     },
     "07235": {
       "duerre_index": 99,
-      "smi": 0.01
+      "smi": 0.008
     },
     "07311": {
       "duerre_index": 93,
-      "smi": 0.074
+      "smi": 0.073
     },
     "07312": {
       "duerre_index": 99,
@@ -644,19 +644,19 @@
     },
     "07313": {
       "duerre_index": 97,
-      "smi": 0.03
+      "smi": 0.027
     },
     "07314": {
       "duerre_index": 90,
-      "smi": 0.103
+      "smi": 0.1
     },
     "07315": {
-      "duerre_index": 83,
-      "smi": 0.169
+      "duerre_index": 84,
+      "smi": 0.165
     },
     "07316": {
-      "duerre_index": 98,
-      "smi": 0.022
+      "duerre_index": 97,
+      "smi": 0.026
     },
     "07317": {
       "duerre_index": 100,
@@ -664,7 +664,7 @@
     },
     "07318": {
       "duerre_index": 98,
-      "smi": 0.023
+      "smi": 0.021
     },
     "07319": {
       "duerre_index": 95,
@@ -676,11 +676,11 @@
     },
     "07331": {
       "duerre_index": 95,
-      "smi": 0.047
+      "smi": 0.052
     },
     "07332": {
       "duerre_index": 99,
-      "smi": 0.009
+      "smi": 0.008
     },
     "07333": {
       "duerre_index": 98,
@@ -688,7 +688,7 @@
     },
     "07334": {
       "duerre_index": 94,
-      "smi": 0.06
+      "smi": 0.056
     },
     "07335": {
       "duerre_index": 99,
@@ -700,15 +700,15 @@
     },
     "07337": {
       "duerre_index": 97,
-      "smi": 0.034
+      "smi": 0.029
     },
     "07338": {
       "duerre_index": 96,
-      "smi": 0.04
+      "smi": 0.038
     },
     "07339": {
-      "duerre_index": 95,
-      "smi": 0.048
+      "duerre_index": 94,
+      "smi": 0.056
     },
     "07340": {
       "duerre_index": 100,
@@ -728,11 +728,11 @@
     },
     "08117": {
       "duerre_index": 99,
-      "smi": 0.011
+      "smi": 0.01
     },
     "08118": {
       "duerre_index": 94,
-      "smi": 0.055
+      "smi": 0.056
     },
     "08119": {
       "duerre_index": 100,
@@ -740,7 +740,7 @@
     },
     "08121": {
       "duerre_index": 99,
-      "smi": 0.011
+      "smi": 0.01
     },
     "08125": {
       "duerre_index": 99,
@@ -748,23 +748,23 @@
     },
     "08126": {
       "duerre_index": 97,
-      "smi": 0.029
+      "smi": 0.03
     },
     "08127": {
       "duerre_index": 99,
-      "smi": 0.005
+      "smi": 0.006
     },
     "08128": {
-      "duerre_index": 96,
-      "smi": 0.039
+      "duerre_index": 98,
+      "smi": 0.02
     },
     "08135": {
       "duerre_index": 99,
-      "smi": 0.009
+      "smi": 0.012
     },
     "08136": {
       "duerre_index": 99,
-      "smi": 0.011
+      "smi": 0.014
     },
     "08211": {
       "duerre_index": 99,
@@ -772,7 +772,7 @@
     },
     "08212": {
       "duerre_index": 97,
-      "smi": 0.03
+      "smi": 0.026
     },
     "08215": {
       "duerre_index": 99,
@@ -784,11 +784,11 @@
     },
     "08221": {
       "duerre_index": 99,
-      "smi": 0.011
+      "smi": 0.009
     },
     "08222": {
-      "duerre_index": 95,
-      "smi": 0.049
+      "duerre_index": 96,
+      "smi": 0.042
     },
     "08225": {
       "duerre_index": 100,
@@ -800,15 +800,15 @@
     },
     "08231": {
       "duerre_index": 100,
-      "smi": 0.004
+      "smi": 0.003
     },
     "08235": {
       "duerre_index": 100,
       "smi": 0.001
     },
     "08236": {
-      "duerre_index": 99,
-      "smi": 0.005
+      "duerre_index": 100,
+      "smi": 0.001
     },
     "08237": {
       "duerre_index": 100,
@@ -816,7 +816,7 @@
     },
     "08311": {
       "duerre_index": 100,
-      "smi": 0.0
+      "smi": 0.002
     },
     "08315": {
       "duerre_index": 100,
@@ -832,7 +832,7 @@
     },
     "08325": {
       "duerre_index": 99,
-      "smi": 0.005
+      "smi": 0.006
     },
     "08326": {
       "duerre_index": 100,
@@ -840,11 +840,11 @@
     },
     "08327": {
       "duerre_index": 98,
-      "smi": 0.021
+      "smi": 0.024
     },
     "08335": {
       "duerre_index": 100,
-      "smi": 0.001
+      "smi": 0.0
     },
     "08336": {
       "duerre_index": 100,
@@ -856,11 +856,11 @@
     },
     "08415": {
       "duerre_index": 99,
-      "smi": 0.01
+      "smi": 0.011
     },
     "08416": {
       "duerre_index": 96,
-      "smi": 0.044
+      "smi": 0.041
     },
     "08417": {
       "duerre_index": 100,
@@ -868,7 +868,7 @@
     },
     "08421": {
       "duerre_index": 100,
-      "smi": 0.0
+      "smi": 0.001
     },
     "08425": {
       "duerre_index": 100,
@@ -908,7 +908,7 @@
     },
     "09172": {
       "duerre_index": 97,
-      "smi": 0.028
+      "smi": 0.027
     },
     "09173": {
       "duerre_index": 100,
@@ -916,7 +916,7 @@
     },
     "09174": {
       "duerre_index": 100,
-      "smi": 0.0
+      "smi": 0.001
     },
     "09175": {
       "duerre_index": 100,
@@ -924,7 +924,7 @@
     },
     "09176": {
       "duerre_index": 91,
-      "smi": 0.089
+      "smi": 0.092
     },
     "09177": {
       "duerre_index": 100,
@@ -932,7 +932,7 @@
     },
     "09178": {
       "duerre_index": 100,
-      "smi": 0.0
+      "smi": 0.001
     },
     "09179": {
       "duerre_index": 100,
@@ -988,7 +988,7 @@
     },
     "09262": {
       "duerre_index": 100,
-      "smi": 0.0
+      "smi": 0.001
     },
     "09263": {
       "duerre_index": 100,
@@ -1032,7 +1032,7 @@
     },
     "09361": {
       "duerre_index": 99,
-      "smi": 0.006
+      "smi": 0.007
     },
     "09362": {
       "duerre_index": 100,
@@ -1040,7 +1040,7 @@
     },
     "09363": {
       "duerre_index": 98,
-      "smi": 0.02
+      "smi": 0.021
     },
     "09371": {
       "duerre_index": 100,
@@ -1052,11 +1052,11 @@
     },
     "09373": {
       "duerre_index": 99,
-      "smi": 0.009
+      "smi": 0.012
     },
     "09374": {
       "duerre_index": 99,
-      "smi": 0.01
+      "smi": 0.011
     },
     "09375": {
       "duerre_index": 100,
@@ -1064,7 +1064,7 @@
     },
     "09376": {
       "duerre_index": 100,
-      "smi": 0.002
+      "smi": 0.003
     },
     "09377": {
       "duerre_index": 100,
@@ -1076,7 +1076,7 @@
     },
     "09462": {
       "duerre_index": 99,
-      "smi": 0.009
+      "smi": 0.01
     },
     "09463": {
       "duerre_index": 100,
@@ -1084,7 +1084,7 @@
     },
     "09464": {
       "duerre_index": 89,
-      "smi": 0.108
+      "smi": 0.113
     },
     "09471": {
       "duerre_index": 97,
@@ -1092,31 +1092,31 @@
     },
     "09472": {
       "duerre_index": 97,
-      "smi": 0.026
+      "smi": 0.029
     },
     "09473": {
       "duerre_index": 100,
       "smi": 0.0
     },
     "09474": {
-      "duerre_index": 93,
-      "smi": 0.066
-    },
-    "09475": {
       "duerre_index": 92,
       "smi": 0.076
     },
+    "09475": {
+      "duerre_index": 92,
+      "smi": 0.075
+    },
     "09476": {
       "duerre_index": 95,
-      "smi": 0.047
+      "smi": 0.053
     },
     "09477": {
-      "duerre_index": 100,
-      "smi": 0.004
+      "duerre_index": 99,
+      "smi": 0.009
     },
     "09478": {
-      "duerre_index": 98,
-      "smi": 0.022
+      "duerre_index": 97,
+      "smi": 0.025
     },
     "09479": {
       "duerre_index": 100,
@@ -1124,35 +1124,35 @@
     },
     "09561": {
       "duerre_index": 100,
-      "smi": 0.003
+      "smi": 0.004
     },
     "09562": {
       "duerre_index": 98,
-      "smi": 0.015
+      "smi": 0.016
     },
     "09563": {
-      "duerre_index": 99,
+      "duerre_index": 98,
       "smi": 0.015
     },
     "09564": {
       "duerre_index": 95,
-      "smi": 0.047
+      "smi": 0.049
     },
     "09565": {
       "duerre_index": 97,
-      "smi": 0.029
+      "smi": 0.032
     },
     "09571": {
       "duerre_index": 98,
-      "smi": 0.015
+      "smi": 0.017
     },
     "09572": {
       "duerre_index": 99,
-      "smi": 0.009
+      "smi": 0.008
     },
     "09573": {
       "duerre_index": 99,
-      "smi": 0.005
+      "smi": 0.006
     },
     "09574": {
       "duerre_index": 99,
@@ -1164,39 +1164,39 @@
     },
     "09576": {
       "duerre_index": 100,
-      "smi": 0.003
+      "smi": 0.004
     },
     "09577": {
-      "duerre_index": 99,
-      "smi": 0.013
+      "duerre_index": 98,
+      "smi": 0.016
     },
     "09661": {
-      "duerre_index": 100,
-      "smi": 0.0
+      "duerre_index": 99,
+      "smi": 0.006
     },
     "09662": {
       "duerre_index": 97,
-      "smi": 0.033
+      "smi": 0.032
     },
     "09663": {
       "duerre_index": 98,
-      "smi": 0.02
+      "smi": 0.015
     },
     "09671": {
       "duerre_index": 100,
-      "smi": 0.002
+      "smi": 0.004
     },
     "09672": {
       "duerre_index": 99,
-      "smi": 0.012
+      "smi": 0.015
     },
     "09673": {
-      "duerre_index": 88,
-      "smi": 0.122
+      "duerre_index": 85,
+      "smi": 0.147
     },
     "09674": {
       "duerre_index": 97,
-      "smi": 0.029
+      "smi": 0.03
     },
     "09675": {
       "duerre_index": 100,
@@ -1204,19 +1204,19 @@
     },
     "09676": {
       "duerre_index": 100,
-      "smi": 0.002
+      "smi": 0.003
     },
     "09677": {
       "duerre_index": 98,
-      "smi": 0.018
+      "smi": 0.019
     },
     "09678": {
       "duerre_index": 97,
-      "smi": 0.033
+      "smi": 0.032
     },
     "09679": {
-      "duerre_index": 98,
-      "smi": 0.023
+      "duerre_index": 96,
+      "smi": 0.037
     },
     "09761": {
       "duerre_index": 100,
@@ -1244,7 +1244,7 @@
     },
     "09773": {
       "duerre_index": 99,
-      "smi": 0.006
+      "smi": 0.007
     },
     "09774": {
       "duerre_index": 100,
@@ -1268,27 +1268,27 @@
     },
     "09779": {
       "duerre_index": 98,
-      "smi": 0.017
+      "smi": 0.024
     },
     "09780": {
       "duerre_index": 100,
-      "smi": 0.0
+      "smi": 0.002
     },
     "10041": {
-      "duerre_index": 97,
-      "smi": 0.026
+      "duerre_index": 98,
+      "smi": 0.024
     },
     "10042": {
       "duerre_index": 99,
       "smi": 0.011
     },
     "10043": {
-      "duerre_index": 100,
-      "smi": 0.004
+      "duerre_index": 99,
+      "smi": 0.005
     },
     "10044": {
-      "duerre_index": 97,
-      "smi": 0.026
+      "duerre_index": 98,
+      "smi": 0.024
     },
     "10045": {
       "duerre_index": 100,
@@ -1303,8 +1303,8 @@
       "smi": 0.0
     },
     "12051": {
-      "duerre_index": 97,
-      "smi": 0.035
+      "duerre_index": 96,
+      "smi": 0.036
     },
     "12052": {
       "duerre_index": 100,
@@ -1312,7 +1312,7 @@
     },
     "12053": {
       "duerre_index": 87,
-      "smi": 0.131
+      "smi": 0.129
     },
     "12054": {
       "duerre_index": 100,
@@ -1320,15 +1320,15 @@
     },
     "12060": {
       "duerre_index": 99,
-      "smi": 0.011
+      "smi": 0.01
     },
     "12061": {
       "duerre_index": 99,
       "smi": 0.015
     },
     "12062": {
-      "duerre_index": 98,
-      "smi": 0.021
+      "duerre_index": 97,
+      "smi": 0.026
     },
     "12063": {
       "duerre_index": 98,
@@ -1336,31 +1336,31 @@
     },
     "12064": {
       "duerre_index": 96,
-      "smi": 0.037
+      "smi": 0.036
     },
     "12065": {
       "duerre_index": 97,
-      "smi": 0.034
+      "smi": 0.032
     },
     "12066": {
       "duerre_index": 97,
-      "smi": 0.028
+      "smi": 0.029
     },
     "12067": {
-      "duerre_index": 87,
-      "smi": 0.126
+      "duerre_index": 88,
+      "smi": 0.125
     },
     "12068": {
       "duerre_index": 90,
-      "smi": 0.102
+      "smi": 0.105
     },
     "12069": {
       "duerre_index": 99,
-      "smi": 0.006
+      "smi": 0.007
     },
     "12070": {
       "duerre_index": 91,
-      "smi": 0.091
+      "smi": 0.092
     },
     "12071": {
       "duerre_index": 100,
@@ -1368,51 +1368,51 @@
     },
     "12072": {
       "duerre_index": 99,
-      "smi": 0.006
+      "smi": 0.008
     },
     "12073": {
       "duerre_index": 98,
-      "smi": 0.02
+      "smi": 0.021
     },
     "13003": {
-      "duerre_index": 80,
-      "smi": 0.202
+      "duerre_index": 78,
+      "smi": 0.221
     },
     "13004": {
       "duerre_index": 87,
-      "smi": 0.133
+      "smi": 0.131
     },
     "13071": {
       "duerre_index": 100,
       "smi": 0.004
     },
     "13072": {
-      "duerre_index": 89,
-      "smi": 0.114
+      "duerre_index": 88,
+      "smi": 0.123
     },
     "13073": {
-      "duerre_index": 96,
-      "smi": 0.043
+      "duerre_index": 95,
+      "smi": 0.052
     },
     "13074": {
       "duerre_index": 96,
-      "smi": 0.039
+      "smi": 0.037
     },
     "13075": {
       "duerre_index": 100,
-      "smi": 0.004
+      "smi": 0.005
     },
     "13076": {
       "duerre_index": 97,
-      "smi": 0.031
+      "smi": 0.032
     },
     "14511": {
       "duerre_index": 98,
-      "smi": 0.018
+      "smi": 0.019
     },
     "14521": {
       "duerre_index": 87,
-      "smi": 0.129
+      "smi": 0.131
     },
     "14522": {
       "duerre_index": 100,
@@ -1420,11 +1420,11 @@
     },
     "14523": {
       "duerre_index": 99,
-      "smi": 0.009
+      "smi": 0.01
     },
     "14524": {
       "duerre_index": 98,
-      "smi": 0.017
+      "smi": 0.016
     },
     "14612": {
       "duerre_index": 100,
@@ -1436,7 +1436,7 @@
     },
     "14626": {
       "duerre_index": 99,
-      "smi": 0.012
+      "smi": 0.009
     },
     "14627": {
       "duerre_index": 99,
@@ -1444,19 +1444,19 @@
     },
     "14628": {
       "duerre_index": 99,
-      "smi": 0.006
+      "smi": 0.007
     },
     "14713": {
       "duerre_index": 99,
-      "smi": 0.008
+      "smi": 0.009
     },
     "14729": {
       "duerre_index": 99,
-      "smi": 0.011
+      "smi": 0.012
     },
     "14730": {
       "duerre_index": 100,
-      "smi": 0.004
+      "smi": 0.005
     },
     "15001": {
       "duerre_index": 100,
@@ -1480,39 +1480,39 @@
     },
     "15083": {
       "duerre_index": 96,
-      "smi": 0.04
+      "smi": 0.041
     },
     "15084": {
       "duerre_index": 97,
-      "smi": 0.03
+      "smi": 0.033
     },
     "15085": {
       "duerre_index": 98,
-      "smi": 0.017
+      "smi": 0.018
     },
     "15086": {
-      "duerre_index": 98,
-      "smi": 0.024
+      "duerre_index": 97,
+      "smi": 0.028
     },
     "15087": {
       "duerre_index": 98,
-      "smi": 0.017
+      "smi": 0.019
     },
     "15088": {
       "duerre_index": 98,
-      "smi": 0.02
+      "smi": 0.025
     },
     "15089": {
       "duerre_index": 95,
-      "smi": 0.049
+      "smi": 0.05
     },
     "15090": {
-      "duerre_index": 91,
-      "smi": 0.094
+      "duerre_index": 90,
+      "smi": 0.095
     },
     "15091": {
       "duerre_index": 99,
-      "smi": 0.013
+      "smi": 0.014
     },
     "16051": {
       "duerre_index": 100,
@@ -1520,55 +1520,55 @@
     },
     "16052": {
       "duerre_index": 100,
-      "smi": 0.004
+      "smi": 0.005
     },
     "16053": {
-      "duerre_index": 73,
-      "smi": 0.265
+      "duerre_index": 72,
+      "smi": 0.281
     },
     "16054": {
       "duerre_index": 96,
       "smi": 0.04
     },
     "16055": {
-      "duerre_index": 99,
-      "smi": 0.014
+      "duerre_index": 98,
+      "smi": 0.018
     },
     "16056": {
       "duerre_index": 100,
-      "smi": 0.004
+      "smi": 0.005
     },
     "16061": {
-      "duerre_index": 87,
-      "smi": 0.128
+      "duerre_index": 88,
+      "smi": 0.119
     },
     "16062": {
       "duerre_index": 99,
-      "smi": 0.013
+      "smi": 0.015
     },
     "16063": {
-      "duerre_index": 94,
-      "smi": 0.061
+      "duerre_index": 91,
+      "smi": 0.087
     },
     "16064": {
       "duerre_index": 96,
-      "smi": 0.037
+      "smi": 0.044
     },
     "16065": {
-      "duerre_index": 97,
-      "smi": 0.032
+      "duerre_index": 96,
+      "smi": 0.04
     },
     "16066": {
-      "duerre_index": 92,
-      "smi": 0.081
+      "duerre_index": 90,
+      "smi": 0.099
     },
     "16067": {
       "duerre_index": 100,
-      "smi": 0.0
+      "smi": 0.003
     },
     "16068": {
-      "duerre_index": 96,
-      "smi": 0.041
+      "duerre_index": 95,
+      "smi": 0.045
     },
     "16069": {
       "duerre_index": 100,
@@ -1579,20 +1579,20 @@
       "smi": 0.001
     },
     "16071": {
-      "duerre_index": 96,
-      "smi": 0.041
+      "duerre_index": 95,
+      "smi": 0.047
     },
     "16072": {
-      "duerre_index": 97,
-      "smi": 0.03
+      "duerre_index": 96,
+      "smi": 0.037
     },
     "16073": {
       "duerre_index": 99,
-      "smi": 0.006
+      "smi": 0.007
     },
     "16074": {
-      "duerre_index": 91,
-      "smi": 0.091
+      "duerre_index": 90,
+      "smi": 0.101
     },
     "16075": {
       "duerre_index": 100,
@@ -1604,7 +1604,7 @@
     },
     "16077": {
       "duerre_index": 99,
-      "smi": 0.009
+      "smi": 0.01
     }
   }
 }
