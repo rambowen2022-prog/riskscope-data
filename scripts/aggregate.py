@@ -32,14 +32,17 @@ TMP_NC = Path("/tmp/smi_latest.nc")
 
 
 def download_ufz_data():
+    """Laedt die UFZ-Datei und gibt deren HTTP-Last-Modified zurueck (Zeitpunkt der letzten Aenderung DER QUELLE)."""
     print(f"Lade UFZ-Daten von {UFZ_URL} ...")
     resp = requests.get(UFZ_URL, timeout=120)
     resp.raise_for_status()
     TMP_NC.write_bytes(resp.content)
-    print(f"Heruntergeladen: {len(resp.content) / 1024:.0f} KB")
+    last_modified = resp.headers.get("Last-Modified")
+    print(f"Heruntergeladen: {len(resp.content) / 1024:.0f} KB | Last-Modified der Quelle: {last_modified}")
+    return last_modified
 
 
-def compute():
+def compute(quelle_last_modified):
     zentren = json.loads(ZENTREN_PATH.read_text(encoding="utf-8"))
 
     ds = xr.open_dataset(TMP_NC)
@@ -62,9 +65,30 @@ def compute():
         duerre_index = round((1 - smi) * 100)
         values[rs] = {"duerre_index": duerre_index, "smi": round(smi, 3)}
 
+    # Veraltete Quelle sichtbar machen (GitHub zeigt ::warning:: als Hinweis am Lauf an)
+    alter_tage = (datetime.now(timezone.utc).date() - datetime.strptime(latest_date, "%Y-%m-%d").date()).days
+    if alter_tage > 3:
+        print(f"::warning::UFZ-Daten veraltet: Stichtag {latest_date} ist {alter_tage} Tage alt "
+              f"(Quelle zuletzt geaendert: {quelle_last_modified}).")
+
+    # Nur schreiben, wenn sich Daten ODER die Quelle geaendert haben. Sonst bliebe "aktualisiert"
+    # taeglich frisch, obwohl die UFZ-Quelle stillsteht -- das taeuscht einen aktuellen Stand vor.
+    if OUT_PATH.exists():
+        try:
+            alt = json.loads(OUT_PATH.read_text(encoding="utf-8"))
+        except Exception:
+            alt = {}
+        if (alt.get("stichtag") == latest_date
+                and alt.get("werte") == values
+                and alt.get("quelle_last_modified") == quelle_last_modified):
+            print(f"Quelle unveraendert (Stichtag {latest_date}, Last-Modified {quelle_last_modified}) "
+                  f"-- Datei bleibt unveraendert, kein Commit.")
+            return
+
     out = {
         "stichtag": latest_date,
         "aktualisiert": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "quelle_last_modified": quelle_last_modified,
         "werte": values,
     }
 
@@ -76,8 +100,8 @@ def main():
     if not ZENTREN_PATH.exists():
         print(f"FEHLER: {ZENTREN_PATH} fehlt im Repo.")
         return
-    download_ufz_data()
-    compute()
+    last_modified = download_ufz_data()
+    compute(last_modified)
 
 
 if __name__ == "__main__":
